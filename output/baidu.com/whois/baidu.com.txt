@@ -1,0 +1,16 @@
+
+_____Fri Oct 28 14:51:30 2022_____
+status : True
+创建日期 : 1999-10-11T11:05:17Z
+域名 : BAIDU.COM
+域名状态 : clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited, clientTransferProhibited https://icann.org/epp#clientTransferProhibited, clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited, serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited, serverTransferProhibited https://icann.org/epp#serverTransferProhibited, serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited, 
+dnsNameServer : NS1.BAIDU.COM, NS2.BAIDU.COM, NS3.BAIDU.COM, NS4.BAIDU.COM, NS7.BAIDU.COM, 
+注册商 : MarkMonitor Inc.
+注册人联系电子邮件 : abusecomplaints@markmonitor.com
+注册人联系电话 : +1.2086851750
+注册人IANAID : 292
+注册地址 : http://www.markmonitor.com
+registrarWHOISServer : whois.markmonitor.com
+注册域名ID : 11181110_DOMAIN_COM-VRSN
+注册到期日期 : 2026-10-11T11:05:17Z
+更新日期 : 2022-09-01T03:54:43Z
